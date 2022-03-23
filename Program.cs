@@ -15,7 +15,7 @@ namespace ConsoleApp1
         }
         public static void LengthOflongestSubstring()
         {
-            string s = "komalllaalli";
+            string s = "testLongggsubbbbstr";
             int a_pointer = 0;
             int b_pointer = 0;
             int max = 0;
